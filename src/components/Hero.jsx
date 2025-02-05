@@ -1,5 +1,6 @@
 import "./hero.css";
 import StackIcon from "tech-stack-icons";
+
 function Hero() {
   return (
     <div className="hero">
