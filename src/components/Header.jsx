@@ -19,7 +19,7 @@ function Header() {
         <ul>
           <li>
             <a
-              href="https://github.com/yourgithub"
+              href="https://github.com/drakesur"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -28,7 +28,7 @@ function Header() {
           </li>
           <li>
             <a
-              href="https://linkedin.com/in/yourlinkedin"
+              href="https://linkedin.com/in/drake-sur-258303121"
               target="_blank"
               rel="noopener noreferrer"
             >
